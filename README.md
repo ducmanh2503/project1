@@ -1,7 +1,7 @@
 Shop bán máy tính & phụ kiện MV
 
-👋 Hi, we're Luong Duc Manh and Dang Hoai Van
+👋 Hi, we're Luong Duc Manh
 🌱 We're currently learning PHP
 📫 How to contact us:
-Email: traubudz@gmail.com, superman.98vn@gmail.com
+Email: traubudz@gmail.com
 or number phone: 0327427463
