@@ -120,7 +120,7 @@
                                         ?>
                                     </select>
                                     <input type="hidden" value="<?php echo $order['order_id'] ?>" name="order_id">
-                                    <input type="submit" class="btn btn-success" value="Cập nhật" name="btn_cancel">
+                                    <input type="submit" class="btn btn-success" onclick="return popup()" value="Cập nhật" name="btn_cancel">
                                     <a class="btn btn-warning" href="index.php?act=tracuu">Quay lại</a>
                                 </form>
                             <?php } else { ?>
@@ -137,3 +137,9 @@
     </div>
 
 </div>
+
+<script>
+    function popup() {
+        return alert("Hủy đơn hàng thành công");
+    }
+</script>

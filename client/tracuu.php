@@ -138,7 +138,7 @@
                                                     <div class="d-flex justify-content-center">
                                                         <a href="index.php?act=chitietdonhang&order_id=<?php echo $name['order_id'] ?>"
                                                             title="Xem chi tiết" class="btn btn-info"><i
-                                                                class="bi bi-search"></i></a>
+                                                                class="bi bi-search"></i>Xem</a>
                                                     </div>
                                                 </td>
                                             </tr>
